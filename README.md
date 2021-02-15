@@ -1,4 +1,4 @@
-![vader](https://i.imgur.com/go3oLag.png)
+![vader](https://i.imgur.com/Fb20ySW.png)
 <details><summary>Contact me</summary>
 <p>
 [🌐 Website](https://emirkabal.com)<br>
