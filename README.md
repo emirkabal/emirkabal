@@ -7,9 +7,9 @@ Full-stack developer
 Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator of Kabal's Discord Bot and I'm a freelancer and I've been dealing with these for about 5 years. I am currently running my business as a full-stack developer at a company called Datafex Internet Solutions. If you have any project or idea, I would be very happy to help you. All you need to do is to contact me at me@emirkabal.com or check out the contact me section below.
 
 * 🌍  I'm based in Uşak, Turkey
-* 🖥️  See my portfolio at [my website](http://emirkabal.com)
+* 🖥️  See my portfolio at [my website](http://emirkabal.com?utm_source=github&utm_medium=link&utm_campaign=emirkabal)
 * ✉️  You can contact me at [me@emirkabal.com](mailto:me@emirkabal.com)
-* 🚀  I'm currently working on [Datafex Internet Solutions](http://datafex.com.tr)
+* 🚀  I'm currently working on [Datafex Information Technologies, Ltd.](http://datafex.com.tr?utm_source=github&utm_medium=link&utm_campaign=emirkabal)
 * 🤝  I'm open to collaborating on Kabal's Bot, Fexmetrics and some private projects.
 
 ### Skills
