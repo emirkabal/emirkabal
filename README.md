@@ -10,7 +10,6 @@ Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator 
 * 🖥️  See my portfolio at [my website](http://emirkabal.com?utm_source=github&utm_medium=link&utm_campaign=emirkabal)
 * ✉️  You can contact me at [me@emirkabal.com](mailto:me@emirkabal.com)
 * 🚀  I'm currently working on [Datafex Information Technologies, Ltd.](http://datafex.com.tr?utm_source=github&utm_medium=link&utm_campaign=emirkabal)
-* 🤝  I'm open to collaborating on Kabal's Bot, Fexmetrics and some private projects.
 
 ### Skills
 
