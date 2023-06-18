@@ -36,7 +36,7 @@ Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator 
 <a href="https://twitter.com/emirkabal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emirkabal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emirkabal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirkabal" height="30" width="40" /></a>
 <a href="https://instagram.com/emirkaball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirkaball" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kabal3345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kabal3345" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kabal3345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kabal3345" height="30" width="40" /></a>
 </p>
 
 <a href="http://www.github.com/emirkabal"><img src="https://github-readme-stats.vercel.app/api?username=emirkabal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emirkabal's GitHub stats" /></a>
