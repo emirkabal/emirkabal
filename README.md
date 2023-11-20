@@ -1,15 +1,14 @@
 Hi 👋, I'm Emir Kabal
 ===========================
 
-Full-stack developer
+A full-stack software developer from Turkey.
 --------------------
 
-Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator of Kabal's Discord Bot and I'm a freelancer and I've been dealing with these for about 6 years. I am currently running my business as a full-stack developer at a company called Datafex Internet Solutions. If you have any project or idea, I would be very happy to help you. All you need to do is to contact me at me@emirkabal.com or check out the contact me section below.
+Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator of [Kabal's Discord Bot](https://kabals.app?utm_source=github&utm_medium=link&utm_campaign=emirkabal) and I'm a freelancer and I've been dealing with these for about 6 years. If you have any project or idea, I would be very happy to help you. All you need to do is to contact me at me@emirkabal.com or check out the social section below.
 
 * 🌍  I'm based in Uşak, Turkey
 * 🖥️  Check out [my website](http://emirkabal.com?utm_source=github&utm_medium=link&utm_campaign=emirkabal)
 * ✉️  You can contact me at [me@emirkabal.com](mailto:me@emirkabal.com)
-* 🚀  I'm currently working on [Datafex Information Technologies, Ltd.](http://datafex.com.tr?utm_source=github&utm_medium=link&utm_campaign=emirkabal)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
