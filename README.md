@@ -38,4 +38,4 @@ Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator 
 <a href="https://www.youtube.com/@kabal3345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kabal3345" height="30" width="40" /></a>
 </p>
 
-<a href="http://www.github.com/emirkabal"><img src="https://github-readme-stats.vercel.app/api?username=emirkabal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emirkabal's GitHub stats" /></a>
+![GitHub stats](https://github-contribution-stats.vercel.app/api/?username=emirkabal)
