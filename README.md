@@ -16,6 +16,3 @@ Hello, my name is Emir, but I'm known on the internet as Kabal. I'm the creator 
 <a href="https://instagram.com/emirkaball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirkaball" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kabal3345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kabal3345" height="30" width="40" /></a>
 </p>
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=emirkabal&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
-
